@@ -5,7 +5,7 @@ exports.handler = async (event, context) => {
       statusCode: 200,
       body: JSON.stringify({
         status: "success",
-        message: "This is a static response from Netlify Functions.",
+        message: "This is a static response from Netlify Functions.222",
       }),
     };
   } else {
