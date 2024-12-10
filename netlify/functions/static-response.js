@@ -1,4 +1,4 @@
-const response = require("../data/response.json");
+const response = require("../data/banner_response1.json");
 
 exports.handler = async (event, context) => {
   if (event.httpMethod === "POST") {
