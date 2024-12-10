@@ -1,0 +1,54 @@
+{
+  "id": "ce5c61d1-9edf-4101-88ae-8d4efa55d72a",
+  "seatbid": [
+      {
+          "bid": [
+              {
+                  "id": "613673EF-A07C-4486-8EE9-3FC71A7DC73D",
+                  "impid": "fa6c05b2-e42c-412e-8fda-0d524eb74a63",
+                  "price": 1,
+                  "adm": "<span class=\"PubAPIAd\"  id=\"9444421A-0C3A-4B12-9C62-C8EEB1494EB1\"><img src=\"https://usw-ca2.adsrvr.org/bid/feedback/pubmatic?t=1&iid=f7464b4c-3e51-4ae2-a302-7289b212fe3d&crid=i76gthoq&wp=1.173228&aid=1&wpc=USD&sfe=17a84032&puid=D4DBB703-DA88-4F8E-9A8A-AC6D2EAE3DAE&tdid=4859bb29-4823-4e03-8794-0b082fa54fae&pid=uyvnmjw&ag=hlujcpy&adv=1tbqu3n&sig=1c9lzhEs_Jf-cftqx--bDr1ELjJ4daFOmxZQ6hyU1Uzg.&bp=1.49&cf=5820801&fq=0&td_s=gbis.gbandroid&rcats=&mste=&mfld=4&mssi=&mfsi=&uhow=82&agsa=&rgz=95833&svbttd=1&dt=Mobile&osf=Android&os=Android110&br=WebView&rlangs=sm,en&mlang=&svpid=160361&did=&rcxt=InApp&lat=46.139893&lon=-122.935928&tmpc=9.700000000000045&daid=ed591962-0d83-4318-942d-0d92ff413403&vp=0&osi=&osv=&bffi=41&mk=Samsung&mdl=SM-G991U&testid=iavc1%20&c=Cg1Vbml0ZWQgU3RhdGVzEgpDYWxpZm9ybmlhGgM4NjIiClNhY3JhbWVudG84AVABgAEAiAEBkAEBsAEAugEECGAYBMABoNQI0AGg1AiSAgczNDQ0NzY42ALcC-ACiA74AgGAAwGIAwKQAwGYAwSgAz3CAxR1EphZuuxt_VPCY7WMn7Xgh0oAfw..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpQCi9jaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uTmludGhEZWNpbWFsRGlzcGxheSIdCMT__________wESEG5pbnRoZGVjLTNwZC1hdHQKQAoHdmw2N213ZxCliA8iDwjx0r5wEghsZHM4NWlyaSIPCKnZvnASCGxkczg1aXJpIg8I_Nu-cBIIbGRzODVpcmkKHgoHNjVrbmowbhDZrgEiDwjSyPN0EghkcjEyNXBpcQo-CiFjaGFyZ2UtbWF4RG91YmxlVmVyaWZ5QnJhbmRTYWZldHkiGQjb__________8BEgxkb3VibGV2ZXJpZnkKPwoiY2hhcmdlLWFsbERvdWJsZVZlcmlmeUJvdEF2b2lkYW5jZSIZCOf__________wESDGRvdWJsZXZlcmlmeQotChdnZW9zdG9yZS1kYXRhLTMwNzU2NjY2NCISCO6HiqYBEgpmYWN0dWFsZ2VvCjAKDGNoYXJnZS1hbGwtMSIgCP___________wESE3R0ZF9kYXRhX2V4Y2x1c2lvbnMQ2a4BMiRlZDU5MTk2Mi0wZDgzLTQzMTgtOTQyZC0wZDkyZmY0MTM0MDM4Ag..&durs=uWucRe&crrelr=&adpt=pubo&fpa=787&pcm=3&vc=2&said=BCCDC81B-F627-4016-8203-352108E91B96B&ict=CellularNetworkUnknown&auct=1&im=1&mc=99765fec-2fd4-47ff-86ff-3321bd8b4278&idl=XY30073XZPKTlaJEpy9_hSnp-5o_hgaP02npTyrAE8XvRecxk&abr=f4e9f4c1-573d-4c13-8cd6-05a23522de46&tail=1\" width=\"1\" height=\"1\" style=\"display: none;\"/><img src=\"https://lciapi.ninthdecimal.com/v1/lci/imp/adv-goodapple/c-32002?typ=MultiOTT&chn=ttd&brand=DollarGeneral&chn=TTD&crtv=i76gthoq&site=2ji1p0c&pub=Foodshare&did=ed591962-0d83-4318-942d-0d92ff413403&xdv=1&ord=362652\" width=\"1\" height=\"1\" style=\"display: none;\"/><ins class='dcmads' style='display:inline-block;width:300px;height:250px'\n    data-dcm-placement='N5667.284566THETRADEDESK/B28005625.379981605'\n    data-dcm-rendering-mode='script'\n    data-dcm-https-only\n    data-dcm-api-frameworks='[APIFRAMEWORKS]'\n    data-dcm-omid-partner='[OMIDPARTNER]'\n    data-dcm-gdpr-applies='gdpr=0'\n    data-dcm-gdpr-consent='gdpr_consent='\n    data-dcm-addtl-consent='addtl_consent=${ADDTL_CONSENT}'\n    data-dcm-ltd='false'\n    data-dcm-resettable-device-id=''\n    data-dcm-app-id='' data-dcm-click-tracker='https://insight.adsrvr.org/track/clk?imp=f7464b4c-3e51-4ae2-a302-7289b212fe3d&ag=hlujcpy&sfe=17a84032&sig=Hcj9hiS5nFFTcQHqZHQxpjAuXj39BfyEpSFVXEDDhr4.&crid=i76gthoq&cf=5820801&fq=0&t=1&td_s=gbis.gbandroid&rcats=&mste=&mfld=4&mssi=&mfsi=&sv=pubmatic&uhow=82&agsa=&wp=1.173228&rgz=95833&dt=Mobile&osf=Android&os=Android110&br=WebView&svpid=160361&rlangs=sm,en&mlang=&did=&rcxt=InApp&tmpc=9.700000000000045&vrtd=&osi=&osv=&daid=ed591962-0d83-4318-942d-0d92ff413403&dnr=0&vpb=&c=Cg1Vbml0ZWQgU3RhdGVzEgpDYWxpZm9ybmlhGgM4NjIiClNhY3JhbWVudG84AVABgAEAiAEBkAEBsAEAugEECGAYBMABoNQI0AGg1AiSAgczNDQ0NzY42ALcC-ACiA74AgGAAwGIAwKQAwGYAwSgAz3CAxR1EphZuuxt_VPCY7WMn7Xgh0oAfw..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpQCi9jaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uTmludGhEZWNpbWFsRGlzcGxheSIdCMT__________wESEG5pbnRoZGVjLTNwZC1hdHQKQAoHdmw2N213ZxCliA8iDwjx0r5wEghsZHM4NWlyaSIPCKnZvnASCGxkczg1aXJpIg8I_Nu-cBIIbGRzODVpcmkKHgoHNjVrbmowbhDZrgEiDwjSyPN0EghkcjEyNXBpcQo-CiFjaGFyZ2UtbWF4RG91YmxlVmVyaWZ5QnJhbmRTYWZldHkiGQjb__________8BEgxkb3VibGV2ZXJpZnkKPwoiY2hhcmdlLWFsbERvdWJsZVZlcmlmeUJvdEF2b2lkYW5jZSIZCOf__________wESDGRvdWJsZXZlcmlmeQotChdnZW9zdG9yZS1kYXRhLTMwNzU2NjY2NCISCO6HiqYBEgpmYWN0dWFsZ2VvCjAKDGNoYXJnZS1hbGwtMSIgCP___________wESE3R0ZF9kYXRhX2V4Y2x1c2lvbnMQ2a4BMiRlZDU5MTk2Mi0wZDgzLTQzMTgtOTQyZC0wZDkyZmY0MTM0MDM4Ag..&durs=uWucRe&crrelr=&npt=&idl=XY30073XZPKTlaJEpy9_hSnp-5o_hgaP02npTyrAE8XvRecxk&mk=Samsung&mdl=SM-G991U&testid=iavc1%20&adpt=pubo&fpa=787&pcm=3&ict=CellularNetworkUnknown&said=BCCDC81B-F627-4016-8203-352108E91B96B&auct=1&tail=1&r='>\n  <script src='https://www.googletagservices.com/dcm/dcmads.js'></script>\n</ins><span id=\"te-clearads-js-tradedesk01cont1\"><script type=\"text/javascript\" src=\"https://choices.truste.com/ca?pid=tradedesk01&aid=tradedesk01&cid=2ji1p0c_hlujcpy_i76gthoq&c=tradedesk01cont1&js=pmw0&w=300&h=250&sid=ev9-FM60pzWefkMAiM77ugE-aNy2u3kzAYRYrOVH6CDfPpiRsXRtRLtn2vUrQ8sU_XL-3ipB2eb5ygXwdTOcxC1u-894OjueoUedXZfE18GPPYvJOoL3apP96A4BfQtW\"></script></span>\n<script type=\"text/javascript\" src=\"https://q.adrta.com/s/pbm/aa.js?cb=777483105_1701888050_176030#pbm;paid=pbm;kv24=5;avid=10542;plid=5673573170891391623;lineItemId=;caid=22918;publisherId=160361;pricePaid=1.2;kv12=3444768;siteId=795969;kv3=D4DBB703-DA88-4F8E-9A8A-AC6D2EAE3DAE;kv15=232;kv11=9444421A-0C3A-4B12-9C62-C8EEB1494EB1;kv18=gbis.gbandroid;kv19=ed591962-0d83-4318-942d-0d92ff413403;kv5=377;kv6=27773;kv2=;kv13=;kv8=\"></script><noscript><img src=\"https://adrta.com/i?clid=pbm&paid=pbm&kv24=5&avid=10542&caid=22918&plid=5673573170891391623&pricePaid=1.2&publisherId=160361&kv12=3444768&siteId=795969&kv3=D4DBB703-DA88-4F8E-9A8A-AC6D2EAE3DAE&kv11=9444421A-0C3A-4B12-9C62-C8EEB1494EB1&kv15=232&kv18=gbis.gbandroid&kv19=ed591962-0d83-4318-942d-0d92ff413403&lineItemId=&kv5=377&kv6=27773&kv2=&kv13=&kv8=\"></noscript>\n<iframe width=\"0\" scrolling=\"no\" height=\"0\" frameborder=\"0\" src=\"https://st.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=160361&siteId=795969&adId=3444768&imprId=9444421A-0C3A-4B12-9C62-C8EEB1494EB1&cksum=7B6034438A9C0B33&adType=10&adServerId=243&kefact=1.200000&kaxefact=1.200000&kadNetFrequecy=0&kadwidth=300&kadheight=250&kadsizeid=9&kltstamp=1701888050&indirectAdId=0&adServerOptimizerId=2&ranreq=0.1&kpbmtpfact=1.173228&dcId=1&tldId=0&passback=0&svr=BIDSV30100&adsver=_3669978024&adsabzcid=0&cls=BID&i0=0x3100101112100111&ekefact=MsBwZSzIBAB-gKX2-RDe6SiCUeSTGMAE5MdKOkabCuFOknt0&ekaxefact=MsBwZTvIBAAYHJoFrhEVltB2w0H_Sfkz8xbB2GVIbQI5zwGx&ekpbmtpfact=MsBwZUbIBACSg5udKtYEBBCsogVsKxRHUyYq_Sy-Q4DemYTK&enpp=MsBwZVLIBABhLhauzmUXd4dE5SvzMJ9C91u0eWrmS-seZhDt&pfi=5&domId=10888830049965889013&dc=SFO2&pubBuyId=27773&tpb=1&crID=i76gthoq&lpu=dollargeneral.com&ucrid=5673573170891391623&wAdType=10&campaignId=22918&creativeId=0&pctr=0.000000&wDSPByrId=4931&wDspId=377&wbId=0&wrId=3706328&wAdvID=10542&wDspCampId=2ji1p0c&isRTB=1&rtbId=BCCDC81B-F627-4016-8203-352108E91B96B&ver=10&dateHr=2023120618&usrgen=0&usryob=0&layeringebl=1&oid=9444421A-0C3A-4B12-9C62-C8EEB1494EB1&mobflag=1&ismobileapp=1&modelid=22996&osid=321&udidtype=1&carrierid=34&cntryId=232&sec=1&pAuSt=3&wops=0&sURL=gbis.gbandroid&BrID=5&oiabdvt=4\" style=\"position:absolute;top:-15000px;left:-15000px\" vspace=\"0\" hspace=\"0\" marginwidth=\"0\" marginheight=\"0\" allowtransparency=\"true\" name=\"pbeacon\"></iframe></span> <!-- PubMatic Ad Ends --><div style=\"position:absolute;left:0px;top:0px;visibility:hidden;\"><img src=\"https://t.pubmatic.com/wt?adv=dollargeneral.com&af=banner&aps=0&au=Mobile_Android_List_Screen_Inside4&bc=pubmatic&bidid=d8f73e03-e425-4b3d-bb61-0aa81eab0036&di=-1&eg=0.96&en=0.96&fsrc=0&ft=1&iid=b04eb063-83cc-41bb-ba3c-74792b8df921&kgpv=Mobile_Android_List_Screen_Inside4%40300x250&orig=gbis.gbandroid&origbidid=9444421A-0C3A-4B12-9C62-C8EEB1494EB1&pdvid=5&pid=3422&plt=5&pn=pubmatic&psz=300x250&pubid=160361&purl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dgbis.gbandroid&sl=1&slot=Mobile_Android_List_Screen_Inside4&ss=1&tgid=0&tst=1701888050\"></div>",
+                  "adomain": [
+                      "dollargeneral.com"
+                  ],
+                  "iurl": "https://thetradedesk-t-general.s3.amazonaws.com/AdvertiserLogos/1tbqu3n.png",
+                  "crid": "creative111",
+                  "w": 300,
+                  "h": 250,
+                  "ext": {
+                      "refreshInterval": 30,
+                      "crtype": "banner",
+                      "prebid": {
+                          "targeting": {
+                              "pwtbst": "1",
+                              "pwtbst_pubmatic": "1",
+                              "pwtecp": "1.00",
+                              "pwtecp_pubmatic": "1.00",
+                              "pwtpb": "1.00",
+                              "pwtpid": "pubmatic",
+                              "pwtpid_pubmatic": "pubmatic",
+                              "pwtplt": "inapp",
+                              "pwtplt_pubmatic": "inapp",
+                              "pwtsid": "613673EF-A07C-4486-8EE9-3FC71A7DC73D",
+                              "pwtsid_pubmatic": "613673EF-A07C-4486-8EE9-3FC71A7DC73D",
+                              "pwtsz": "300x250",
+                              "pwtsz_pubmatic": "300x250"
+                          },
+                          "type": "banner",
+                          "bidid": "2b157c72-4a7b-4e3d-a83c-c05bcd90bb05",
+                          "meta": {
+                              "adaptercode": "pubmatic",
+                              "demandSource": "6",
+                              "mediaType": "banner",
+                              "networkId": 6
+                          }
+                      },
+                      "netecpm": 1
+                  }
+              }
+          ],
+          "seat": "pubmatic"
+      }
+  ],
+  "cur": "USD"
+}
