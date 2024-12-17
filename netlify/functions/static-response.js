@@ -47,21 +47,12 @@ exports.handler = async (event, context) => {
     if (path.endsWith("/api/banner1")) {
       return {
         statusCode: 200,
-        // body: JSON.stringify({
-        //   message: "POST request to /api/banner1",
-        //   receivedPayload: payload,
-        //   data: bannerResponse1,
-        // }),
-        body: JSON.stringify({bannerResponse1})
+        body: JSON.stringify(bannerResponse1)
       };
     } else if (path.endsWith("/api/banner2")) {
       return {
         statusCode: 200,
-        body: JSON.stringify({
-          message: "POST request to /api/banner2",
-          receivedPayload: payload,
-          data: bannerResponse2,
-        }),
+        body: JSON.stringify(bannerResponse2)
       };
     } else {
       return {
