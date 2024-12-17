@@ -12,10 +12,11 @@
                         "tiktok.com"
                     ],
                     "iurl": "https://cdn-f.adsmoloco.com/fH0s5ileTls1I5dI/creative/lesc5yay_qlcuewv_xvfpixyv1dxqpky3.png",
+                    "instl": 1,
                     "cid": "23495",
                     "crid": "fH0s5ileTls1I5dI:a:ZuSz5Tiq0KMCrXuf",
                     "w": 320,
-                    "h": 50,
+                    "h": 480,
                     "ext": {
                         "refreshInterval": 30,
                         "crtype": "banner",
@@ -32,8 +33,8 @@
                                 "pwtplt_pubmatic": "inapp",
                                 "pwtsid": "39B6DF8C-9E6F-4471-8BF1-CA6A3542DA14",
                                 "pwtsid_pubmatic": "39B6DF8C-9E6F-4471-8BF1-CA6A3542DA14",
-                                "pwtsz": "320x50",
-                                "pwtsz_pubmatic": "320x50"
+                                "pwtsz": "320x480",
+                                "pwtsz_pubmatic": "320x480"
                             },
                             "bidid": "ff3ff696-245a-4233-8d6e-1cf01f713973",
                             "meta": {
